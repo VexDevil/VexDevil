@@ -1,7 +1,7 @@
 ## Hey, I'm [Sarvjeet Chaudhary!]👋
 I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VexDevil&label=Profile views&color=green&style=plastic" alt="CoderAvi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VexDevil&label=Profile views&color=green&style=plastic" alt="VexDevil" /> </p>
 <a href="https://twitter.com/sarvjeetchaudh7">
   <img align="left" alt="VexDevil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -11,7 +11,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <a href="https://github.com/VexDevil">
   <img align="left" alt="VexDevil's  Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://stackoverflow.com/users/15208961/coderavi?tab=profile">
+<a href="https://stackoverflow.com/users/15208961/VexDevil?tab=profile">
   <img align="left" alt="VexDevil's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://www.instagram.com/vex_devil/">
@@ -35,7 +35,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/15208961/coderavi?tab=profile).
 - 🤔 I’m looking for help with Shopondoor Deployment work.
 - 💬 Ask me about Android or any tech related stuff.
-- 📫 How to reach me: [Twitter - @Coder_Avi](https://twitter.com/Coder_Avi) , [Youtube - @coderavi](https://www.youtube.com/channel/UCrsaXuRFNGTB8LYqwYFlICA)
+- 📫 How to reach me: [Twitter - @VexDevil](https://twitter.com/VexDevil) , [Youtube - @VexDevil](https://www.youtube.com/channel/UCtaGHMW2SUDl0P6hStUszDA)
 - 😄 Pronouns: He/His    
 - ⚡ Fun fact: I spend almost 12 hours listening podcasts everyday.        
            
@@ -54,10 +54,10 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>   
 
-<a href="https://github.com/CoderAvi">
-<img height="115em"src="https://github-readme-stats.vercel.app/api?username=CoderAvi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CoderAvi&layout=compact&langs_count=6&theme=algolia"/>
-<img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderAvi&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
+<a href="https://github.com/VexDevil">
+<img height="115em"src="https://github-readme-stats.vercel.app/api?username=VexDevil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VexDevil&layout=compact&langs_count=6&theme=algolia"/>
+<img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=VexDevil&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
 </a>
 
 ![CoderAvi's github activity graph](https://activity-graph.herokuapp.com/graph?username=CoderAvi&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
