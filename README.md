@@ -8,23 +8,23 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <a href="https://www.linkedin.com/in/sarvjeet-chaudhary-00000001/">
   <img align="left" alt="VexDevil's  Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/CoderAvi/">
-  <img align="left" alt="Coder Avi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/VexDevil">
+  <img align="left" alt="VexDevil's  Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://stackoverflow.com/users/15208961/coderavi?tab=profile">
-  <img align="left" alt="CoderAvi's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img align="left" alt="VexDevil's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-<a href="https://www.instagram.com/coder_avi/">
-  <img align="left" alt="Coder Avi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/vex_devil/">
+  <img align="left" alt="VexDevil's  Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/coderavinash/">
-  <img align="left" alt="Coder Avi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/sarvjeet.chaudhary.16100/">
+  <img align="left" alt="VexDevil's  Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCrsaXuRFNGTB8LYqwYFlICA">
-  <img align="left" alt="Coder Avi's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://www.youtube.com/channel/UCtaGHMW2SUDl0P6hStUszDA">
+  <img align="left" alt="VexDevil's  Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://www.hackerrank.com/Avi_Avinash">
-  <img align="left" alt="Coder Avi's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" alt="VexDevil's  hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br/>
 <br/>
