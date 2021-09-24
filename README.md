@@ -42,7 +42,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
  
 [![Twitter:VexDevil](https://img.shields.io/twitter/follow/VexDevil?style=social)](https://twitter.com/vex_devil)
 [![Linkedin: VexDevil](https://img.shields.io/badge/-VexDevil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/VexDevil/)](https://www.linkedin.com/in/sarvjeet-chaudhary-00000001/VexDevil/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/coder_avi/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/VexDevil/) 
 [![GitHub VexDevil](https://img.shields.io/github/followers/VexDevil?label=follow&style=social)](https://github.com/VexDevil)
 
 **Languages and Tools:**  
