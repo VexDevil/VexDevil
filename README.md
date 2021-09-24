@@ -1,12 +1,12 @@
 ## Hey, I'm [Sarvjeet Chaudhary!]👋
 I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderAvi&label=Profile views&color=green&style=plastic" alt="CoderAvi" /> </p>
-<a href="https://twitter.com/Coder_Avi">
-  <img align="left" alt="Coder_Avi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VexDevil&label=Profile views&color=green&style=plastic" alt="CoderAvi" /> </p>
+<a href="https://twitter.com/sarvjeetchaudh7">
+  <img align="left" alt="VexDevil's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/coder-avi/">
-  <img align="left" alt="Coder Avi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/sarvjeet-chaudhary-00000001/">
+  <img align="left" alt="VexDevil's  Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/CoderAvi/">
   <img align="left" alt="Coder Avi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
