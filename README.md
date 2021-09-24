@@ -23,7 +23,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <a href="https://www.youtube.com/channel/UCtaGHMW2SUDl0P6hStUszDA">
   <img align="left" alt="VexDevil's  Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://www.hackerrank.com/Avi_Avinash">
+<a href="https://www.hackerrank.com/sarvjeetchaudha1">
   <img align="left" alt="VexDevil's  hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br/>
@@ -40,10 +40,10 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 - ⚡ Fun fact: I spend almost 12 hours listening podcasts everyday.        
            
  
-[![Twitter: CoderAvi](https://img.shields.io/twitter/follow/Coder_Avi?style=social)](https://twitter.com/Coder_Avi)
-[![Linkedin: CoderAvi](https://img.shields.io/badge/-coderavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coder-avi/)](https://www.linkedin.com/in/coder-avi/)
+[![Twitter:VexDevil](https://img.shields.io/twitter/follow/VexDevil?style=social)](https://twitter.com/vex_devil)
+[![Linkedin: VexDevil](https://img.shields.io/badge/-VexDevil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/VexDevil/)](https://www.linkedin.com/in/sarvjeet-chaudhary-00000001/VexDevil/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/coder_avi/) 
-[![GitHub CoderAvi](https://img.shields.io/github/followers/CoderAvi?label=follow&style=social)](https://github.com/CoderAvi)
+[![GitHub VexDevil](https://img.shields.io/github/followers/VexDevil?label=follow&style=social)](https://github.com/CoderAvi)
 [![website](https://img.shields.io/badge/Portfolio-coderavi.tech-2648ff?style=flat-square&logo=google-chrome)](http://coderavi.tech/)
 
 **Languages and Tools:**  
