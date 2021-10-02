@@ -1,5 +1,5 @@
 ## Hey, I'm [Sarvjeet Chaudhary!]👋
-I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
+I am a tech enthusiast 💻 who loves programming & exploring more about Data Science!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VexDevil&label=Profile views&color=green&style=plastic" alt="VexDevil" /> </p>
 <a href="https://twitter.com/sarvjeetchaudh7">
@@ -30,11 +30,11 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <br/>
 
 
-- 🔭 I’m currently working on my own venture [Shopondoor](https://shopondoor.com/).
+- 🔭 I’m currently working on my own venture [BabaKaBazzar](https://BabaKaBazzar.com/).
 - 🌱 I’m currently learning more about Artificial Intelligence & Algorithms.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/15208961/coderavi?tab=profile).
-- 🤔 I’m looking for help with Shopondoor Deployment work.
-- 💬 Ask me about Android or any tech related stuff.
+- 🤔 I’m looking for help with BabaKaBazzar Deployment work.
+- 💬 Ask me about Data science or any tech related stuff.
 - 📫 How to reach me: [Twitter - @VexDevil](https://twitter.com/VexDevil) , [Youtube - @VexDevil](https://www.youtube.com/channel/UCtaGHMW2SUDl0P6hStUszDA)
 - 😄 Pronouns: He/His    
 - ⚡ Fun fact: I spend almost 12 hours listening podcasts everyday.        
@@ -60,17 +60,17 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=VexDevil&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0"/>
 </a>
 
-![CoderAvi's github activity graph](https://activity-graph.herokuapp.com/graph?username=CoderAvi&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
+![vexdevil's github activity graph](https://activity-graph.herokuapp.com/graph?username=vexDevil&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)
 
 
 
   <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b>macOS Big Sur 11.2.1</li>
-	    <li><b>Laptop: </b> Macbook Air 2019</li>
-  	    <li><b>Browser: </b> Safari & Chrome</li>
-	    <li><b>Code Editor:</b> VSCode ❤, Xcode</li>
-            <li><b>Cleverly using macOS Terminal with node.js, python & git</li>
+  	    <li><b>OS:</b>Windows 11</li>
+	    <li><b>Laptop: </b>Acer Aspire 5</li>
+  	    <li><b>Browser: </b>Chrome & Firefox</li>
+	    <li><b>Code Editor:</b> VSCode ❤, Xcode, Jupyter</li>
+            <li><b>Cleverly using Windows Terminal with node.js, python & git</li>
 		<li><b>Appetize.io for App Testing Purpose</li>
 	</ul>	
 
